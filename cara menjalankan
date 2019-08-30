@@ -1,0 +1,4 @@
+buat database dengan nama "pajak"
+jalankan perintah : "php artisan migrate"
+lalu jalankan : "php artisan serve"
+lalu jalankan : "localhost:8000"
